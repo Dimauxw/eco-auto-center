@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dimauxw.github.io/eco-auto-center/sitemap.xml
